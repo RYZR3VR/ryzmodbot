@@ -144,7 +144,7 @@ async def mod(ctx):
     embed.add_field(name="r.ban [@user]", value="Bans a mentioned user.", inline=False)
     embed.add_field(name="r.kick [@user]", value="Kicks a mentioned user.", inline=False)
     embed.add_field(name="r.timeout [@user] [time]", value="Timeout a mentioned user.", inline=False)
-    embed.add_field(name="r.utimeout [@user]", value="Untimeout a mentioned user.", inline=False)
+    embed.add_field(name="r.untimeout [@user]", value="Untimeout a mentioned user.", inline=False)
     embed.set_footer(text="Bot by ryz")
     await ctx.send(embed=embed)
 
@@ -214,3 +214,4 @@ async def untimeout(ctx, member: discord.Member):
         await ctx.send(f"Error: {e}")
 
 bot.run(TOKEN)
+
