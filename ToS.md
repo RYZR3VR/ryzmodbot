@@ -1,9 +1,9 @@
 Terms of Service
 
-Effective Date: [Insert Date]
+Effective Date: 1 December 2025
 
 1. Introduction
-This bot (“the Bot”) is provided as-is for entertainment, utility, and moderation purposes on Discord. By using the Bot, you agree to these Terms of Service.
+This bot (“ryz's Mod bot”) is provided as-is for entertainment, utility, and moderation purposes on Discord. By using the Bot, you agree to these Terms of Service.
 
 2. Usage
 You may use the Bot in any Discord server or group chat where it is authorized. You agree not to abuse, spam, or exploit the Bot’s features in ways that disrupt other users or violate Discord’s Community Guidelines.
@@ -18,4 +18,4 @@ The Bot is provided “as is” without warranties of any kind. The developer is
 These Terms may be updated at any time. Continued use of the Bot after changes implies acceptance of the revised Terms.
 
 6. Contact
-For questions or concerns, contact the developer via Discord: [Your Discord Tag or Server Invite]
+For questions or concerns, contact the developer via Discord: discord.gg/pDvBfKFjNv
