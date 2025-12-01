@@ -19,3 +19,6 @@ These Terms may be updated at any time. Continued use of the Bot after changes i
 
 6. Contact
 For questions or concerns, contact the developer via Discord: discord.gg/pDvBfKFjNv
+
+7. Compliance
+Users must comply with Discord’s Terms of Service and Community Guidelines when using the Bot.
